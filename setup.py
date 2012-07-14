@@ -8,7 +8,7 @@ setup(
     description="An easy way to see the importpodcast site.",
     author="Zach Williams",
     author_email="hey@zachwill.com",
-    url="http://github.com/zachwill/podcast",
+    url="http://github.com/importpodcast/pypi",
     license="MIT",
     classifiers=[
         'Development Status :: 4 - Beta',
